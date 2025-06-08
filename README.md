@@ -5,6 +5,7 @@ Designed to provide a smooth, intuitive, and playful user experience with sound,
 
 
 **🎯 Game Objective**
+
 Find a **Set** - a winning combination of 3 cards out of 12 shown on the table - according to specific visual rules.
 
 Each card has **4 attributes**:
