@@ -47,6 +47,7 @@ or
 ✅ Responsive layout and engaging UI
 
 **🛠️ Tech Stack**
+
 Built with:
 
 **💻 JavaScript** - game logic, interactivity, timer, score
