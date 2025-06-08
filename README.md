@@ -31,6 +31,7 @@ or
 
 
 **✨ Features**
+
 ✅ Valid Set detection logic
 
 ✅ Score and timer system
