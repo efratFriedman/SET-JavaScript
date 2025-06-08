@@ -1,0 +1,34 @@
+body {
+    background-image: url('../img/טשטוש_רקע.png');
+}
+#rank{
+    background-color: rgba(240, 248, 255, 0.516);
+    border: 2px solid black;
+    width: 57vw;
+    height: 75vh;
+    margin-left: 20vw;
+    margin-top: -2vh;
+    font-size:6.5em;
+    text-align: center;
+}
+#h1{
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    margin-top: 8vh;
+    padding: 2vh;
+    font-size: xxx-large;
+    font-weight: bold;
+    font-family: system-ui;
+}
+#home{
+    position: absolute;
+    top: 8.3vh;
+    left: 0;
+    width: 7vw;
+    /* margin-left: 3vw; */
+}
+.recordsPrint{
+    font-size: 0.5em;
+    margin-top: 12vh;
+    font-family: cursive;
+}

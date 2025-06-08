@@ -1,0 +1,14 @@
+body {
+    background-image: url('../img/טשטוש_רקע.png');
+}
+#home{
+    position: absolute;
+    top: 1.3vh;
+    left: 0;
+    width: 7vw;
+    /* margin-left: 3vw; */
+}
+#instr{
+    text-align: center;
+    font-size: 1.6em;
+}
