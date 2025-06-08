@@ -12,43 +12,27 @@ Each card has **4 attributes**:
 
 - **Color** - Red, Green, or Purple
 
-Number - 1, 2, or 3 symbols
+ - **Number** - 1, 2, or 3 symbols
 
-Fill - Solid, Striped, or Outline
+- **Fill** - Solid, Striped, or Outline
 
-To form a valid Set, for each of the four attributes, the three cards must be:
+To form a **valid Set**, for **each of the four attributes**, the three cards must be:
 
 ✔️ All the same
 or
 ✔️ All different
 
-⚠️ Golden Rule: If only two cards share a value in one attribute (e.g. two red and one green), it's not a valid Set.
+**⚠️ Golden Rule:** If only two cards share a value in one attribute (e.g. two red and one green), it's not a valid Set.
 
-🇮🇱 איך זה עובד - חוקי המשחק (עברית)
-מטרת המשחק היא לזהות סט (Set) - שלישיית קלפים מתוך 12 קלפים שמונחים על השולחן לפי הכללים הבאים:
+<img src="https://github.com/user-attachments/assets/5026499e-067c-46f0-bbf5-9f6bade038ba" alt="Screenshot 2025-06-09 001409" width="300" />
 
-כל קלף מכיל 4 מאפיינים:
+<img src="https://github.com/user-attachments/assets/3c6cb4b2-1820-4112-8b63-f39740880ce3" alt="Screenshot 2025-06-09 001500" width="300" />
 
-צורה - אליפסה, יהלום או שרבוט
+<img src="https://github.com/user-attachments/assets/1dc75916-4f64-4801-9746-1059652d322d" alt="Screenshot 2025-06-09 001417" width="300" />
 
-צבע - אדום, ירוק או סגול
 
-מספר - 1, 2 או 3 סמלים
 
-מילוי - מלא, מקווקו, או ריק (קו בלבד)
-
-כדי שהשלישייה תהיה סט חוקי, בכל אחד מהמאפיינים:
-
-המאפיין חייב להיות זהה ב-3 הקלפים
-או
-
-שונה בכל אחד מהם
-
-🟡 כלל הזהב: אם שני קלפים זהים באפיון אחד והשלישי שונה - זו לא שלישייה חוקית.
-
-📌 הסיכוי למצוא לפחות סט אחד מתוך 12 קלפים הוא כ-97%, וכשיש 15 קלפים - מעל 99.9%.
-
-✨ Features
+**✨ Features**
 ✅ Valid Set detection logic
 
 ✅ Score and timer system
@@ -61,13 +45,12 @@ or
 
 ✅ Responsive layout and engaging UI
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Built with:
 
-💻 JavaScript - game logic, interactivity, timer, score
+**💻 JavaScript** - game logic, interactivity, timer, score
 
-🎨 CSS - styling, animations, hover effects
+**🎨 CSS** - styling, animations, hover effects
 
-🧱 HTML - layout and structure
+**🧱 HTML** - layout and structure
 
-⚡ No frameworks, no external libraries - 100% vanilla JS + HTML + CSS
