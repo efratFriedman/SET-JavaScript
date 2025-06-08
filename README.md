@@ -8,9 +8,9 @@ Find a **Set** - a winning combination of 3 cards out of 12 shown on the table -
 
 Each card has **4 attributes**:
 
--**Shape** - Oval, Diamond, or Squiggle
+- **Shape** - Oval, Diamond, or Squiggle
 
--**Color** - Red, Green, or Purple
+- **Color** - Red, Green, or Purple
 
 Number - 1, 2, or 3 symbols
 
