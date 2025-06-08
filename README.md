@@ -25,10 +25,8 @@ or
 **⚠️ Golden Rule:** If only two cards share a value in one attribute (e.g. two red and one green), it's not a valid Set.
 
 <img src="https://github.com/user-attachments/assets/5026499e-067c-46f0-bbf5-9f6bade038ba" alt="Screenshot 2025-06-09 001409" width="300" />
-
-<img src="https://github.com/user-attachments/assets/3c6cb4b2-1820-4112-8b63-f39740880ce3" alt="Screenshot 2025-06-09 001500" width="300" />
-
 <img src="https://github.com/user-attachments/assets/1dc75916-4f64-4801-9746-1059652d322d" alt="Screenshot 2025-06-09 001417" width="300" />
+<img src="https://github.com/user-attachments/assets/3c6cb4b2-1820-4112-8b63-f39740880ce3" alt="Screenshot 2025-06-09 001500" width="300" />
 
 
 
